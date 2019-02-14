@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.m \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
