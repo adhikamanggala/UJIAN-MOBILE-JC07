@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>1C02639B-0233-436A-B0F5-6BE76AE9FB52</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C02639B-0233-436A-B0F5-6BE76AE9FB52.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project instagram with scheme instagram and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>571821763.80141199</real>
+			<key>timeStoppedRecording</key>
+			<real>571821840.46245694</real>
+			<key>title</key>
+			<string>Building project instagram with scheme instagram and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1C02639B-0233-436A-B0F5-6BE76AE9FB52</string>
+		</dict>
 		<key>B30A898A-5B91-420A-B513-5E0EDEEA7A6E</key>
 		<dict>
 			<key>className</key>

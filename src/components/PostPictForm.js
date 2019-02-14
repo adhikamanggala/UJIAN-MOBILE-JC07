@@ -61,7 +61,7 @@ class PostPictForm extends Component {
 }
 
 const mapStateToProps = (state) => {
-    const { photo, caption } = state.photoForm;
+    const { photo, caption } = state.PhotoFormReducers;
 
     return { photo, caption };
 };

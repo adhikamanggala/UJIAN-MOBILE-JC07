@@ -14,7 +14,7 @@ class PhotoDetail extends Component {
             <Card>
                 <CardSection>
                     <View style={thumbnailContainerStyle}>
-                        <Image source={{ uri: 'https://' + photo }}
+                        <Image source={{ uri: photo }}
                             style={thumbnailStyle} />
                     </View>
                     <View style={headerContentStyle}>
@@ -22,7 +22,7 @@ class PhotoDetail extends Component {
                     </View>
                 </CardSection>
                 <CardSection>
-                    <Image style={imageStyle} source={{ uri: 'https://' + photo }}>
+                    <Image style={imageStyle} source={{ uri: photo }}>
                     </Image>
                 </CardSection>
                 <CardSection>

@@ -5,6 +5,8 @@ import _ from 'lodash';
 import { connect } from 'react-redux';
 import { getPhotoList } from '../actions'
 import PhotoDetail from './getPhotoList'
+
+
 class Timeline extends Component {
     componentDidMount() {
         this.props.getPhotoList();
@@ -24,7 +26,6 @@ class Timeline extends Component {
                 <Header>
                     <Body>
                         <Title>Instagram</Title>
-
                     </Body>
                 </Header>
                 <ScrollView style={{ flex: 1 }}>

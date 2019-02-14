@@ -5,8 +5,7 @@ import {
 
 const INITIAL_STATE = {
     photo: '',
-    caption: '',
-    email: ''
+    caption: ''
 };
 
 export default (state = INITIAL_STATE, action) => {

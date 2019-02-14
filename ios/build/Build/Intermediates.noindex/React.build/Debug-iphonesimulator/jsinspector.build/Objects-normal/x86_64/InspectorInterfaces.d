@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/adhikamanggala/Downloads/template-instagram-master/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/adhikamanggala/Documents/UJIAN_MOBILE-JC07/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/adhikamanggala/Documents/UJIAN_MOBILE-JC07/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
